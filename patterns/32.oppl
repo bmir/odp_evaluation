@@ -1,0 +1,15 @@
+?e1:CLASS, ?e2:CLASS, ?e3:CLASS, ?pb:OBJECTPROPERTY = MATCH("[pP][rR][eE][cC][eE][dD][eE][dD][_\s\-]*[bB][yY]"), 
+?ipb:OBJECTPROPERTY = MATCH("[iI][nNmM][mM][eE][dD][iI][aA][tT][eE][lL][yY][_\s\-]*[pP][rR][eE][cC][eE][dD][eE][dD][_\s\-]*[bB][yY]"),
+?ip:OBJECTPROPERTY = MATCH("[iI][nNmM][mM][eE][dD][iI][aA][tT][eE][lL][yY][_\s\-]*[pP][rR][eE][cC][eE][dD][eE][sS]")
+SELECT
+ASSERTED Transitive ?pb,
+ASSERTED Functional ?ipb,
+ASSERTED ?ipb subPropertyOf ?pb,
+ASSERTED ?e1 subClassOf ?ip some ?e2 ,
+ASSERTED ?e2 subClassOf ?ip some ?e3 ,
+ASSERTED ?e2 subClassOf ?ipb some ?e1 ,
+ASSERTED ?e3 subClassOf ?ipb some ?e2
+WHERE ?e1 != ?e2, ?e1!=?e3, ?e3!=?e2
+BEGIN
+ADD ?e1 subClassOf Thing
+END;

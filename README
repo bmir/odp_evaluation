@@ -1,0 +1,15 @@
+OPPLMod.jar - This file is a compiled basic version of OPPL, use java -jar OPPLMod.jar -h to see help
+README - This File
+bioportal_list.txt - A list of all bioportal onts before filtering
+bioportal_list_filtered.txt - a list of filtered bioportal version IDs used in the evaluation (some do not correspond directly without removing file extensions)
+filter_wiki_patterns.py - Uses the BioPortal SPARQL endpoint to prune the ont-pattern pairs by checking for necessary relations; uses wiki_relations_list as input (Only argument)
+findODP.jar - The main application to search for a pattern.  Takes a pattern (or directory thereof) and ont (or directory thereof) and reports the presence of a pattern. 
+	Example: java -jar findODP.jar -f [pattern] [ont] -n , where n specifies normalizing transformations on the ontology
+	Note: To get results for the hardcoded patterns, [pattern] must be a directory, else it will only execute the single specified input pattern (OPPL script) 
+find_upper_onts.py - Uses the BioPortal SPARQL endpoint to find the Upper Ontology Pattern based on a URI.  Uses upper_ont_list as an input (Only argument)
+man_pattern_list.txt - List of the manchester patterns used, corresponds to the pattern numbers in the patterns directory
+patterns - directory of the OPPL scripts used by findODP.jar.  Additional patterns are hardcoded into findODP.jar
+upper_ont_list.txt - list of an upper ontology and its unique name
+wiki_relations_list.txt - list of various CODPs from ODP wiki, along with necessary relations.
+src - a directory contains src for OPPL, transformations, pattern-ont query, and optimizations for performance. Compiled in Eclipse using the queryOPPL.java as target.
+lib - libraries necessary to compile the findODP.jar

@@ -1,0 +1,17 @@
+    19|Nary Datatype Relationship|http://www.gong.manchester.ac.uk/odp/owl/Extension_ODP/Nary_DataType_Relationship.owl
+    20|Exception|http://www.gong.manchester.ac.uk/odp/owl/Extension_ODP/Exception.owl
+    21|Nary Relationship|http://www.gong.manchester.ac.uk/odp/owl/Extension_ODP/Nary_Relationship.owl
+    22|Entity Feature Value|http://www.gong.manchester.ac.uk/odp/owl/Good_Practice_ODP/Entity_Feature_Value.owl
+    23|Selector|http://www.gong.manchester.ac.uk/odp/owl/Good_Practice_ODP/Selector.owl
+    24|Normalization|http://www.gong.manchester.ac.uk/odp/owl/Good_Practice_ODP/Normalisation.owl
+    25|Upper Level Ontology|http://www.gong.manchester.ac.uk/odp/owl/Good_Practice_ODP/Upper_Level_Ontology.owl
+    26|Closure|http://www.gong.manchester.ac.uk/odp/owl/Good_Practice_ODP/Closure.owl
+    27|Entity Quality|http://www.gong.manchester.ac.uk/odp/owl/Good_Practice_ODP/Entity_Quality.owl
+    28|Value Partition|http://www.gong.manchester.ac.uk/odp/owl/Good_Practice_ODP/Value_Partition.owl
+    29|Entity Property Quality|http://www.gong.manchester.ac.uk/odp/owl/Good_Practice_ODP/Entity_Property_Quality.owl
+    30|DefinedClass Description|http://www.gong.manchester.ac.uk/odp/owl/Good_Practice_ODP/DefinedClass_Description.owl
+    31|Interactor Role Interaction|http://www.gong.manchester.ac.uk/odp/owl/Domain_Modelling_ODP/Interactor_Role_Interaction.owl
+    32|Sequence|http://www.gong.manchester.ac.uk/odp/owl/Domain_Modelling_ODP/Sequence.owl
+    33|Composite Property Chain|http://www.gong.manchester.ac.uk/odp/owl/Domain_Modelling_ODP/Composite_Property_Chain.owl
+    34|List|http://www.gong.manchester.ac.uk/odp/owl/Domain_Modelling_ODP/List.owl
+    35|Adapted SEP|http://www.gong.manchester.ac.uk/odp/owl/Domain_Modelling_ODP/Adapted_SEP.owl

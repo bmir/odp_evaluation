@@ -1,0 +1,11 @@
+?r1:CLASS, ?r2:CLASS, ?iab:CLASS, ?ia:CLASS, ?ib:CLASS
+SELECT
+ASSERTED ?ib subClassOf has_role some ( ?r1 and role_in_interaction only ?iab ) ,
+ASSERTED ?ia subClassOf has_role some ( ?r2 and role_in_interaction only ?iab ) ,
+ASSERTED ?iab subClassOf has_participant only (?ia or ?ib),
+ASSERTED ?iab subClassOf has_participant exactly 1 ?ia,
+ASSERTED ?iab subClassOf has_participant exactly 1 ?ib,
+ASSERTED ?ib DisjointWIth ?ia
+BEGIN
+ADD ?ia subClassOf Thing
+END;

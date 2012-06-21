@@ -1,0 +1,312 @@
+39336|1158|Cell Behavior Ontology|OWL-DL
+45239|1016|Drosophila development|OBO
+44836|1033|NMR-instrument specific component of metabolomics investigations|OWL
+44776|1351|Medical Subject Headings|RRF
+45835|1146|Electrocardiography Ontology|OWL
+42456|1041|Protein modification|OBO
+46646|1062|PRotein Ontology (PRO)|OBO
+46004|1000|Mouse adult gross anatomy|OBO
+45242|1065|Tick gross anatomy|OBO
+46089|1123|Ontology for Biomedical Investigations|OWL
+39215|1058|SNP-Ontology|OWL-DL
+40223|1099|African Traditional Medicine|OBO
+40937|1134|BioTop|OWL-DL
+46005|1078|Spatial Ontology|OBO
+39933|1247|GeoSpecies Ontology|OWL
+46719|1007|Chemical entities of biological interest|OBO
+44831|1024|Loggerhead nesting|OBO
+39976|1257|MeGO|OBO
+38873|1135|Pseudogene|OBO
+45245|1049|C. elegans development|OBO
+46748|1070|Gene Ontology|OBO
+38631|1126|Family Health History Ontology|OWL-DL
+45953|1108|Plant Anatomy|OBO
+42455|1114|Bilateria anatomy|OBO
+40117|1100|Ontology for Genetic Interval|OWL-DL
+46622|1136|Experimental Factor Ontology|OWL
+46667|1141|Ontology of Physics for Biology|OWL-DL
+39509|1044|Sample processing and separation techniques|OBO
+40397|1347|MedlinePlus Health Topics|RRF
+46601|1005|BRENDA tissue / enzyme source|OBO
+40245|1152|Minimal anatomical terminology|OBO
+46615|1063|Common Anatomy Reference Ontology|OBO
+46494|1321|Neural ElectroMagnetic Ontologies|OWL
+45248|1043|Physico-chemical process|OBO
+45249|1064|Fly taxonomy|OBO
+29684|1089|BIRNLex|OWL-DL
+46378|1076|Ontology of Clinical Research (OCRe)|OWL-DL
+46338|1110|Teleost Anatomy Ontology|OBO
+46464|1362|Hymenoptera Anatomy Ontology|OWL
+46273|1030|Mosquito gross anatomy|OBO
+45784|1029|Molecule role (INOH Protein name/family name ontology)|OBO
+45088|1116|Bleeding History Phenotype|OWL
+44450|1104|Biomedical Resource Ontology|OWL-FULL
+45252|1144|Dendritic cell|OBO
+46731|1125|Human Phenotype Ontology|OBO
+45792|1023|Biological imaging methods|OBO
+45254|1021|Human developmental anatomy, abstract version|OBO
+45638|1046|Systems Biology|OBO
+46624|1051|Zebrafish anatomy and development|OBO
+46593|1037|Plant Trait Ontology|OBO
+44774|1350|Logical Observation Identifier Names and Codes|RRF
+44629|1082|Gene Regulation Ontology|OWL-DL
+46524|1107|Phenotypic quality|OBO
+46617|1081|Teleost taxonomy|OBO
+46713|1048|C. elegans gross anatomy|OBO
+3294|1050|Maize gross anatomy|OBO
+13404|1047|Cereal Plant Development|OBO
+45074|1349|Physician Data Query|RRF
+46353|1190|Ontology for Parasite LifeCycle|OWL-DL
+45260|1036|Plant environmental conditions|OBO
+46517|1109|Sequence types and features|OBO
+40009|1192|Proteomics Pipeline Infrastructure for CPTAC|OWL
+40402|1352|National Drug File|RRF
+39734|1059|Computer-based Patient Record Ontology|OWL-DL
+3905|1052|Protein Ontology|OWL-FULL
+40390|1341|COSTART|RRF
+45776|1304|Breast Cancer Grading Ontology|OWL
+40393|1344|International Classification of Primary Care|RRF
+39343|1061|Suggested Ontology for Pharmacogenomics|OWL
+46116|1353|SNOMED Clinical Terms|UMLS-RELA
+45262|1022|Human developmental anatomy, timed version|OBO
+45720|1014|Physico-chemical methods and properties|OBO
+45263|1224|Symptom Ontology|OBO
+46358|1095|Xenopus anatomy and development|OBO
+45681|1042|OBO relationship types|OBO
+44302|1013|eVOC (Expressed Sequence Annotation for Humans)|OBO
+39815|1149|DermLex: The Dermatology Lexicon|OWL
+44686|1311|Malaria Ontology|OBO
+45863|1335|Parasite Experiment Ontology|OWL-DL
+40791|1370|Amphibian taxonomy|OBO
+45796|1027|Medaka fish anatomy and development|OBO
+40404|1354|WHO Adverse Reaction Terminology|RRF
+45404|1011|Event (INOH pathway ontology)|OBO
+45267|1010|Mouse gross anatomy and development|OBO
+45937|1015|Drosophila gross anatomy|OBO
+46012|1090|Amphibian gross anatomy|OBO
+46698|1020|Habronattus courtship|PROTEGE
+42948|1148|BioPortal Metadata|OWL
+45902|1038|Plant Growth and Development Stage|OBO
+38802|1132|NCBI organismal classification|OBO
+42117|1328|Ontology of homology and related concepts in biology|OBO
+45817|1019|Fungal gross anatomy|OBO
+40133|1290|ABA Adult Mouse Brain|OWL
+46737|1067|C. elegans phenotype|OBO
+45418|1069|Environment Ontology|OBO
+4525|1055|Galen|OWL-FULL
+40358|1332|Basic Formal Ontology|OWL
+44210|1183|Lipid Ontology|OWL
+44944|1026|Multiple alignment|OBO
+42497|1130|Cancer Research and Management ACGT Master Ontology|OWL-DL
+8056|1060|Epoch Clinical Trial Ontologies|OWL-FULL
+46506|1112|Units of measurement|OBO
+40483|1369|PhysicalFields|OWL
+39579|1086|Ontology for disease genetic investigation|OWL-DL
+46530|1091|Spider Ontology|OBO
+46086|1017|FlyBase Controlled Vocabulary|OBO
+45553|1348|Online Mendelian Inheritance in Man|RRF
+38611|1122|Skin Physiology Ontology|OWL-DL
+39038|1142|Cardiac Electrophysiology Ontology|OWL
+40648|1128|Comparative Data Analysis Ontology|OWL-FULL
+46732|1172|Vaccine Ontology|OWL
+39804|1088|MaHCO - An MHC Ontology|OWL-DL
+39927|1245|Cell line ontology|OBO
+46319|1222|Ascomycete phenotype ontology|OBO
+44448|1249|Smoking Behavior Risk Ontology|OWL
+13386|1039|Proteomics data and process provenance|OWL-DL
+46531|1105|Mass spectrometry|OBO
+39508|1040|Protein-protein interaction|OBO
+45298|1237|Situation-Based Access Control|OWL
+45398|1008|Dictyostelium discoideum anatomy|OBO
+14391|1068|Subcellular Anatomy Ontology (SAO)|OWL-DL
+39577|1087|Ontology of Geographical Region|OWL-DL
+46465|1150|Rat Strain Ontology|OBO
+45221|1101|International Classification of Diseases|RRF
+45376|1314|Cell Line Ontology|OWL
+46702|1009|Human disease ontology|OBO
+44947|1094|Pathogen transmission|OBO
+46505|1084|NIFSTD|OWL-DL
+46738|1025|Mammalian phenotype|OBO
+38801|1131|MGED Ontology|OWL-FULL
+46237|1035|Pathway ontology|OBO
+45127|1106|Gene Regulation Ontology|OWL
+44016|1054|Amino Acid|OWL-FULL
+4531|1056|Basic Vertebrate Anatomy|OWL-FULL
+46611|1012|Evidence codes|OBO
+46320|1115|Yeast phenotypes|OBO
+46350|1001|Cereal plant gross anatomy|OBO
+46604|1006|Cell type|OBO
+46749|1077|Mosquito insecticide resistance|OBO
+45532|1085|Ontology of Glucose Metabolism Disorder|OBO
+46355|1057|RadLex|PROTEGE
+45233|1083|NanoParticle Ontology|OWL-FULL
+44507|1053|Foundational Model of Anatomy|OWL-DL
+46448|1031|Mouse pathology|OBO
+46205|1092|Infectious Disease Ontology|OWL
+46317|1032|NCI Thesaurus|OWL-DL
+46383|1381|NIF Dysfunction|OWL
+40642|1393|Information Artifact Ontology|OWL
+40646|1394|Syndromic Surveillance Ontology|OWL
+40649|1395|MDSS Mo|OBO
+46106|1397|Gazetteer|OBO
+40652|1398|Ontology of Language Disorder in Autism|OWL
+40653|1399|Pilot Ontology|OWL
+45766|1401|International Classification for Nursing Practice|OWL
+46408|1402|NIF Cell|OWL
+46740|1404|Uber anatomy ontology|OBO
+40802|1406|linkingkin2pep|OWL-DL
+46199|1407|Terminology for the Description of Dynamics|OWL
+40917|1409|PKO_Re|OWL-DL
+46039|1410|Kinetic Simulation Algorithm Ontology|OWL
+45578|1411|International Classification of Functioning, Disability and Health (ICF)|OWL
+46493|1413|Software Ontology|OWL
+46293|1414|Ontology for General Medical Science|OWL
+46081|1415|Common Terminology Criteria for Adverse Events|OWL
+46700|1417|Influenza Ontology|OWL
+42834|1418|TOK_Ontology|OWL-FULL
+44946|1419|Taxonomic rank vocabulary|OBO
+42280|1422|MedDRA|RRF
+46395|1423|RxNORM|UMLS-RELA
+42282|1424|National Drug Data File|RRF
+46303|1425|ICD-10-PCS|RRF
+42284|1426|Master Drug Data Base|RRF
+42295|1427|Read Codes, Clinical Terms Version 3 (CTV3) |RRF
+42296|1428|Nursing Interventions Classification (NIC)|RRF
+42297|1429|ICPC-2 PLUS|RRF
+42298|1430|AI/RHEUM|RRF
+44178|1438|Breast tissue cell lines|OWL
+42452|1439|General Formal Ontology|OWL-DL
+42453|1440|General Formal Ontology: Biology|OWL
+46456|1444|Chemical Information Ontology|OWL
+46442|1343|Health Level Seven|LEXGRID-XML
+46658|1461|Translational Medicine Ontology|OWL
+42765|1484|International Classification of  External Causes of Injuries|OWL
+42651|1487|Body System|OWL
+46047|1488|SysMO-JERM|OWL
+46512|1489|Ontology of Adverse Events (OAE)|OWL
+44006|1490|Platynereis stage ontology|OBO
+42685|1491|IMGT-ONTOLOGY|OWL
+42764|1494|Tissue Microarray Ontology|OWL
+44666|1497|PMA 2010|OWL
+46571|1498|Bioinformatics data, formats, identifiers, operations and topics|OBO
+45339|1499|NCI Metathesaurus|RRF
+44005|1500|RNA ontology|OWL
+42835|1501|Neomark Oral Cancer-Centred Ontology|OWL-DL
+42853|1504|Current Procedural Terminology|RRF
+42998|1505|Ontology for MicroRNA Target Prediction|OWL
+45890|1506|Gene Ontology Extension|OBO
+42983|1507|Cell Cycle Ontology|OBO
+44304|1509|ICPS Network|OWL
+42994|1510|Metathesaurus CPT Hierarchical Terms|RRF
+44354|1515|Interaction Network Ontology|OWL
+44103|1516|ICD10|RRF
+46734|1517|Human developmental anatomy, abstract version, v2|OBO
+45980|1520|Leukocyte Surface Markers|OBO
+44245|1521|Neural Motor Recovery Ontology|OWL
+44167|1522|BioPAX|OWL
+44257|1523|OBOE SBC|OWL
+44258|1524|OBOE|OWL
+44432|1526|CRISP Thesaurus, 2006|RRF
+44452|1527|VANDF|RRF
+45082|1528|HUGO|OWL
+44454|1529|HCPCS|RRF
+44451|1530|Animal natural history and life history|OWL
+46449|1532|SemanticScience Integrated Ontology|OWL
+46534|1533|BioAssay Ontology|OWL-DL
+44565|1534|apollo-akesios|OWL
+44571|1535|Terminology of Anatomy of Human Histology|OBO
+44572|1536|Terminology of Anatomy of Human Embryology|OBO
+46725|1537|Brucellosis Ontology|OWL
+44694|1538|Role Ontology|OWL
+44724|1539|Neural-Immune Gene Ontology|OBO
+44704|1540|Ontology for Drug Discovery Investigations|OWL
+44729|1541|Cell line ontology|OWL
+44770|1544|Crop Ontology|OBO
+44779|1545|Wheat trait |OBO
+45138|1550|PHARE|OWL-DL
+46386|1552|Reproductive trait and phenotype ontology|OWL
+46302|1553|ICD10CM|RRF
+46744|1555|Vertebrate Anatomy Ontology|OBO
+44958|1560|Cognitive Paradigm Ontology|OWL
+45307|1565|Ontology of Medically Related Social Entities|OWL
+45146|1567|Pharmacovigilance Ontology|OWL
+46628|1568|Anatomical Entity Ontology|OBO
+45230|1569|Host Pathogen Interactions Ontology|OWL
+45215|1570|Traditional Medicine Constitution Value Set|OWL
+45216|1571|Traditional Medicine Other Factors Value Set|OWL
+45217|1572|Traditional Medicine Signs and Symptoms Value Set|OWL
+45218|1573|Traditional Medicine Meridian Value Sets|OWL
+46559|1574|vertebrate Homologous Organ Groups|OBO
+45220|1575|ExO|OBO
+45231|1576|FDA Medical Devices (2010)|OWL
+45290|1578|HOM_ElixhauserScores|OWL
+46507|1580|Adverse Event Reporting ontology|OWL
+45294|1581|HEALTH_INDICATORS|OWL
+46394|1582|CAO|OWL
+46726|1583|Clinical Measurement Ontology|OBO
+46727|1584|Measurement Method Ontology|OBO
+46728|1585|Experimental Conditions Ontology|OBO
+45845|1586|Orphanet Ontology of Rare Diseases|OWL-DL
+46430|1587|Plant Ontology|OBO
+45330|1588|Ontology of General Purpose Datatypes|OWL
+45966|1596|HOM_MDCs-DRGS|OWL
+46613|1613|Bone Dysplasia Ontology|OWL
+45567|1614|IxnO|OBO
+46232|1615|Systems Chemical Biology/Chemogenomics |OWL
+45588|1616|Phylogenetic Ontology|OWL
+45834|1621|Neuro Behavior Ontology|OBO
+45991|1625|HOM-ICD9CM_PROCEDURES|OWL
+45950|1626|Enzyme Mechanism Ontology|OWL
+45948|1627|HOMERUN Ontology|OWL
+45880|1629|HOM-UCARE|OWL
+46195|1630|HOM-EPIC|OWL
+45879|1631|HOM-HARVARD|OWL
+46747|1632|Web Service Interaction Ontology|OBO
+46220|1633|Cognitive Atlas|OWL
+45982|1638|Ontology of Data Mining|OWL
+45987|1639|Epilepsy|OWL
+45989|1640|Pediatric Terminology|OWL
+46068|1641|HOM-ICD9CM-ECODES|OWL
+45992|1642|HOM-DXPROCS_MDCDRG|OWL
+46062|1643|HOM-ICD9_PROCS_OSHPD|OWL
+46066|1645|HOM-MDCDRG_OSHPD|OWL
+46064|1647|HOM-ICD9_DXandVCODES_OSHPD|OWL
+46190|1648|HOM-DATASOURCE_OSHPD|OWL
+46194|1649|HOM-OSHPD|OWL
+46042|1650|Units Ontology|OWL
+46054|1651|Sleep Domain Ontology|OWL
+46061|1652|HOM-OSHPD_UseCase|OWL
+46080|1653|HOM-PROCS2_OSHPD|OWL
+46083|1654|HOM-DXVCODES2_OSHPD|OWL
+46090|1655|PharmGKB-in-OWL|OWL
+46091|1656|PhenomeBLAST ontology|OWL
+46147|1657|Quadrupedal Gait|OWL
+46154|1658|Hewan Invertebrata|OWL
+46684|1659|Vertebrate Trait Ontology|OBO
+46276|1660|HOM-DATASOURCE_EPIC|OWL
+46211|1661|HOM-Transplant Ontology|OWL
+46314|1665|Student Health Record|OWL
+46315|1666|Emotion Ontology|OWL
+46285|1667|HOM-DATASOURCE_OSHPDSC|OWL
+46286|1668|HOM-OSHPD-SC|OWL
+46356|1670|ICD_Oncology-3|OWL
+46348|1671|Quantitative Imaging Biomarker Ontology|OWL
+46402|1672|DIKB-Evidence-Ontology|OWL
+46404|1675|CEEROntology|OWL
+46410|1676|Randomized Controlled Trials (RCT) Ontology|OWL
+46488|1679|JADNI test ontology2|OBO
+46483|1680|BioActivity Ontology3|OBO
+46480|1681|JADNI test ontology|OWL
+46469|1682|Human disease in Bioactivity|OBO
+46481|1683|BioActivity Ontology|OWL
+46478|1684|BioActivity Ontology2|OWL
+46492|1686|Neomark Oral Cancer Ontology|OWL
+46521|1688|UniprotCoreBH|OWL
+46741|1689|Fission Yeast Phenotype Ontology|OBO
+46596|1691|yipd_test|OWL
+46580|1692|test-purl|OWL
+46629|1693|ICD9-ICD10-PCS (partial)|OWL
+46662|1694|HOM-CPT|OWL
+46699|1696|Synapse Ontology|OWL
+46729|1697|HOM-ORTHO|OWL
+46718|1698|HOM-DATASRC-ORTHO|OWL

@@ -1,0 +1,11 @@
+?part:CLASS, ?whole:CLASS, ?attr:CLASS, ?prop:OBJECTPROPERTY, ?p:OBJECTPROPERTY = MATCH("[pP][aA][rR][tT][_\s\-]*[oO][fF]")
+SELECT
+ASSERTED ?part subClassOf ?p some ?whole ,
+ASSERTED ?attr subClassOf ?prop some (?whole or ?p some ?whole)
+WHERE ?part != ?whole,
+?part != ?attr,
+?whole != ?attr,
+?p != ?prop
+BEGIN
+ADD ?part subClassOf Thing
+END;

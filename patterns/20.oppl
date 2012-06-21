@@ -1,0 +1,10 @@
+?typ:CLASS, ?atyp:CLASS, ?domain:CLASS, ?excp:CLASS, ?prop:OBJECTPROPERTY
+SELECT
+ASSERTED ?typ subClassOf ?domain,
+ASSERTED ?atyp EquivalentTo ?domain and ?prop exactly 1 Thing,
+ASSERTED ?domain subClassOf ?typ or ?atyp,
+ASSERTED ?excp subClassOf ?domain,
+ASSERTED ?excp subClassOf ?prop exactly 1 Thing
+BEGIN
+ADD ?typ subClassOf Thing
+END;

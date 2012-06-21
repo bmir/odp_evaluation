@@ -1,0 +1,3 @@
+BFO|Occurrent
+DOLCE|Perdurant
+SUMO|SelfConnectedObject
